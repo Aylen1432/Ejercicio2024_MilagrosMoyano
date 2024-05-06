@@ -1,0 +1,29 @@
+
+body{
+    text-align: center ;
+    font-family: "Guci",cursive;
+    background: linear-gradient(to right, #f3eca5,#feab5a  );
+}
+div{
+
+    border:2px dashed #b4c5ff ;
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 15%;
+    box-shadow: 10px 5px #827531;
+}
+#principal{
+    border-radius: 50%;
+    width: 50px;
+    float: left;
+}
+div.especial h3{
+    .luckiest-guy-regular {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    text-shadow: 10px 5px #999;
+}
+
+
